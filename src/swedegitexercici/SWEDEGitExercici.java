@@ -20,6 +20,7 @@ public class SWEDEGitExercici {
         Autor jb = new Autor("Jesús", "Beade");
         Autor eg = new Autor("Estela", "García");
           System.out.println("Aquest és el nostre treball 2");
+           System.out.println("Aquest és el nostre treball 3");
     }
     
 }
